@@ -1,0 +1,17 @@
+Silakan import terlebih dahulu database yang sudah dibuat pada folder database.
+
+
+buka link ini agar web berjalan
+http://localhost/penjualan_nd_r/login.php
+
+atau pilih login.php agar berjalan
+
+Untuk mengakses halaman admin, login ke halaman login admin :
+username : admin	
+password : admin123
+
+
+Untuk mengakses halaman user, dapat melakukan registerasi terlebih dahulu.
+Namun boleh menggunakan akun bawaan 
+username : dimas
+password : 12345
